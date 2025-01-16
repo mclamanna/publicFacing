@@ -30,3 +30,6 @@ const QUESTIONS = [
     "text": "Sample Question 5"  
   }  
 ];  
+  
+const QUESTIONS_JSON = JSON.stringify(QUESTIONS);  
+console.log(QUESTIONS_JSON);  
