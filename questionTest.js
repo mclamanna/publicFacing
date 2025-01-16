@@ -1,4 +1,4 @@
-QUESTIONS = [
+const QUESTIONS = [
     { 
       id: 1,
       text: 'Sample Question 1'
