@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="277.772" height="238" viewBox="0 0 277.772 238">
+  <g id="Group_13" data-name="Group 13" transform="translate(-548 -668)">
+    <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(548 674)" fill="#7696c5" stroke="#43dd2b" stroke-linecap="round" stroke-linejoin="round" stroke-width="6">
+      <rect width="232" height="232" rx="28" stroke="none"/>
+      <rect x="3" y="3" width="226" height="226" rx="25" fill="none"/>
+    </g>
+    <g id="Group_12" data-name="Group 12" transform="translate(118.975 99)">
+      <path id="Path_11" data-name="Path 11" d="M350.611,691.7l-9.586,8.488H456.833l4.719-33.315h26.525v-9.549H455.822L445.213,691.7Z" transform="translate(126 61.556)" fill="#fff"/>
+      <path id="Path_12" data-name="Path 12" d="M410.535,615.417h14.217v28.976h-6.824v50.555h-7.393l-4.206-50.555Z" transform="translate(189.324 20.919)" fill="#fff"/>
+      <path id="Path_13" data-name="Path 13" d="M408.465,664v7h7.683v-7Z" transform="translate(191.395 68.678)" fill="#fff"/>
+      <path id="Subtraction_4" data-name="Subtraction 4" d="M17.556,35.112A17.556,17.556,0,1,1,35.112,17.556,17.576,17.576,0,0,1,17.556,35.112Zm0-25.358a7.8,7.8,0,1,0,7.8,7.8A7.812,7.812,0,0,0,17.556,9.754Z" transform="translate(587.168 742.109)" fill="#fff"/>
+      <path id="Subtraction_5" data-name="Subtraction 5" d="M7.8,15.605a7.8,7.8,0,1,1,7.8-7.8A7.812,7.812,0,0,1,7.8,15.605Zm0-11.27A3.468,3.468,0,1,0,11.27,7.8,3.472,3.472,0,0,0,7.8,4.335Z" transform="translate(484.952 761.615)" fill="#fff"/>
+      <path id="Rectangle_3" data-name="Rectangle 3" d="M0,0H0A54.619,54.619,0,0,1,54.619,54.619v91.292a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(484.952 604)" fill="#fff"/>
+    </g>
+    <path id="Path_6" data-name="Path 6" d="M116.5-91a8.513,8.513,0,0,1,0,12.033l-68,68a8.513,8.513,0,0,1-12.033,0l-34-34A8.513,8.513,0,0,1,2.47-57,8.513,8.513,0,0,1,14.5-57l28,27.97L104.5-91a8.513,8.513,0,0,1,12.033,0Z" transform="translate(702 764.493)" fill="#43dd2b" stroke="#7696c5" stroke-width="6"/>
+  </g>
+</svg>
